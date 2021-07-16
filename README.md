@@ -1,12 +1,10 @@
 <font color="red">**普通**</font>码农一枚
 
-```diff
-- 普通
+```java
+public static void main(String[] args){
+  System.out.print("Hello,I'm mingliao17.");
+}
 ```
-```diff
-+ 码农
-```
-一枚
 
 <!--
 **mingliao17/mingliao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
