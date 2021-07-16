@@ -1,4 +1,5 @@
 ### Hi there 👋
+**<font color=#F4606C>普通</font>**码农一枚
 
 <!--
 **mingliao17/mingliao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
