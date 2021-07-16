@@ -1,4 +1,4 @@
-<font color="red">**普通**</font>码农一枚
+**普通**码农一枚
 
 ```java
 public static void main(String[] args){
