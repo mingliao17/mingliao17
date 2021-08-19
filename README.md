@@ -1,5 +1,3 @@
-**普通**码农一枚
-
 ```java
 public static void main(String[] args){
   System.out.print("Hello,I'm mingliao17.");
